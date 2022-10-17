@@ -3,7 +3,7 @@ The objective of this project is to create a system where a customer  can easily
 There are various steps to book a gas like issuing an entry book, to 
 travel agency from that to go to the delivery centre, our system makes 
 this whole process at one place. Basically, there are two types of users 
-for the cylinders domestic and other is commercial. <br>
+for the cylinders domestic and other is commercial. <br> <br>
 The system will help the customers by providing a simple user 
 interactive interface for booking the gas through online which will save 
 their time and money. Through this system, we solve the customers’ 
