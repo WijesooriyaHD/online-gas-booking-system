@@ -15,7 +15,7 @@ charged. Then the stock of cylinders is also maintained in manual
 records. In this system the payment for the gas cylinders is not done 
 by online. The customer can do the payment in cash to the delivery 
 boy (for domestic orders) or by check to the sales manager (for 
-commercial orders) when the delivery is done. <br>
+commercial orders) when the delivery is done. <br> <br>
 It also gives the agencies ease by helping them make the booking 
 process faster and easier to maintain. It will avoid the agency from 
 spending a huge amount of their budget in maintaining the manual 
